@@ -1,4 +1,4 @@
-## Olá, sou Caio Barros desenvolvedor FullStack JAVA!
+## Olá, sou Caio Barros desenvolvedor FullStack!
 
 <div align="center">
   <a href="https://github.com/caiobarroscbs">
